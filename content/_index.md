@@ -44,9 +44,7 @@ sections:
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
-    design:
-      columns: '2'
-    - title: Exchange student
+        - title: Exchange student
           company: Applied Mathematics, Sorbonne University
           company_url: 'https://www.sorbonne-universite.fr/en'
           company_logo: Sorbonne
