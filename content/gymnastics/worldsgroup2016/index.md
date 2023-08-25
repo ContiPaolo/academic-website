@@ -1,6 +1,6 @@
 ---
 title: Group Italy - World Championships 2016 (KOR)
-summary: :2nd_place_medal: Group Italy 
+summary: Group Italy :2nd_place_medal: 
 tags:
   - blog_posts
 date: "2023-03-09T00:00:00Z"
