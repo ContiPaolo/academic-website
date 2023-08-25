@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Gymnastics
 cms_exclude: true
 
 # View.
