@@ -24,7 +24,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Intern
-          company: Artificial Intelligence Institute in Dynamic Systems
+          company: Artificial Intelligence Institute in Dynamic Systemsss
           company_url: 'https://dynamicsai.org/'
           company_logo: AI_logo
           location: University of Washington, Seattle
