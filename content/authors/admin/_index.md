@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Scientific Machine Learning (in progress)
+    - course: PhD in Machine Learning (in progress)
       institution: Politecnico di Milano
       year: 
     - course: MSc in Mathematical Engineering  
@@ -74,11 +74,11 @@ social:
     link: uploads/Paolo_Conti_CV_PhD.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'paolo.conti@polimi.it'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in scientific machine learning at Polytechnic University of Milan. I am fascinated by the immense world that arises from blending core numerical methods with artificial intelligence learning techniques, which is what I am focusing on in my research activities. Lifelong learning is my attitude, and working day-by-day for long-term goals is my methodology.
 {style="text-align: justify;"}
