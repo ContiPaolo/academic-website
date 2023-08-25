@@ -201,8 +201,9 @@ sections:
     content:
       title: Contact
       subtitle:
-      #text: |-
-      #  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      text: |-
+        Feel free to contact me! \
+        Prova
       # Contact (add or remove contact options as necessary)
       email: paolo.conti@polimi.it
       phone: (+39)3406332219
