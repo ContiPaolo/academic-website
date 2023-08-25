@@ -182,7 +182,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: gymnastics
+  - block: collection
     id: gymnastics
     content:
       title: Gymnastics
