@@ -1,16 +1,20 @@
 ---
-title: "An example journal article"
+title: "Multi-fidelity regression using artificial neural networks: Efficient approximation of parameter-dependent output quantities"
 authors:
+- Mengwu Guo
+- Andrea Manzoni
+- Maurice Amendt
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Jan S. Hesthaven
+
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2022-02-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.cma.2021.114378"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +23,14 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Computer Methods in Applied Mechanics and Engineering*(1)"
+publication_short: "CMAME"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Highly accurate numerical or physical experiments are often very time-consuming or expensive to obtain. When time or budget restrictions prohibit the generation of additional data, the amount of available samples may be too limited to provide satisfactory model results. Multi-fidelity methods deal with such problems by incorporating information from other sources, which are ideally well-correlated with the high-fidelity data, but can be obtained at a lower cost. By leveraging correlations between different data sets, multi-fidelity methods often yield superior generalization when compared to models based solely on a small amount of high-fidelity data. In the current work, we present the use of artificial neural networks applied to multi-fidelity regression problems. By elaborating a few existing approaches, we propose new neural network architectures for multi-fidelity regression. The introduced models are compared against a traditional multi-fidelity regression scheme — co-kriging. A collection of artificial benchmarks are presented to measure the performance of the analyzed models. The results show that cross-validation in combination with Bayesian optimization leads to neural network models that outperform the co-kriging scheme. Additionally, we show an application of multi-fidelity regression to an engineering problem. The propagation of a pressure wave into an acoustic horn with parametrized shape and frequency is considered, and the index of reflection intensity is approximated using the proposed multi-fidelity models. A finite element, full-order model and a reduced-order model built through the reduced basis method are adopted as the high- and low-fidelity, respectively. It is shown that the multi-fidelity neural networks return outputs that achieve a comparable accuracy to those from the expensive, full-order model, using only very few full-order evaluations combined with a larger amount of inaccurate but cheap evaluations of the reduced order model.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Highly accurate numerical or physical experiments are often very time-consuming or expensive to obtain. When time or budget restrictions prohibit the generation of additional data, the amount of available samples may be too limited to provide satisfactory model results. Multi-fidelity methods deal with such problems by incorporating information from other sources, which are ideally well-correlated with the high-fidelity data, but can be obtained at a lower cost. By leveraging correlations between different data sets, multi-fidelity methods often yield superior generalization when compared to models based solely on a small amount of high-fidelity data. In the current work, we present the use of artificial neural networks applied to multi-fidelity regression problems. By elaborating a few existing approaches, we propose new neural network architectures for multi-fidelity regression. The introduced models are compared against a traditional multi-fidelity regression scheme — co-kriging. A collection of artificial benchmarks are presented to measure the performance of the analyzed models. The results show that cross-validation in combination with Bayesian optimization leads to neural network models that outperform the co-kriging scheme. Additionally, we show an application of multi-fidelity regression to an engineering problem. The propagation of a pressure wave into an acoustic horn with parametrized shape and frequency is considered, and the index of reflection intensity is approximated using the proposed multi-fidelity models. A finite element, full-order model and a reduced-order model built through the reduced basis method are adopted as the high- and low-fidelity, respectively. It is shown that the multi-fidelity neural networks return outputs that achieve a comparable accuracy to those from the expensive, full-order model, using only very few full-order evaluations combined with a larger amount of inaccurate but cheap evaluations of the reduced order model.
+
 
 tags:
 - Source Themes
@@ -34,8 +39,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://arxiv.org/abs/2102.13403
+url_code: 'https://www.sciencedirect.com/science/article/pii/S0045782521006411'
 url_dataset: ''
 url_poster: ''
 url_project: ''
