@@ -8,7 +8,7 @@ last_name: Conti
 
 # Status emoji
 status:
-  icon: fab
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,9 +18,9 @@ role: PhD student in Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Politecnico di Milano
-    url: [https://www.stanford.edu/](https://www.polimi.it/)
-
+ - name: Politecnico di Milano
+   url: https://www.polimi.it/
+   
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include reduced order modeling, multi-fidelity, ...
 
