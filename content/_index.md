@@ -23,8 +23,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Internssss
-          company: Artificial Intelligence Institute in Dynamic Systemsss
+        - title: Research Intern
+          company: Artificial Intelligence Institute in Dynamic Systems
           company_url: 'https://dynamicsai.org/'
           company_logo: AI_logo
           location: University of Washington, Seattle
@@ -44,15 +44,6 @@ sections:
           date_start: '2019-09-01'
           date_end: '2020-07-01'
           description:
-        - title: Professional Athlete
-          company: International Gymnastics Federation
-          company_url: ''
-          company_logo: fig
-          location: Bergamo, Italy
-          date_start: '2010-01-01'
-          date_end: '2021-12-31'
-          description: Member of the National Team of Aerobic Gymnastics.
-            Experiences in coaching and coreographing in Italy, France, Finland, Hungary and Lithuania.
     design:
       columns: '2'
   - block: accomplishments
@@ -168,12 +159,8 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: featured
     content:
       title: Recent Publications
-      filters:
-        folders:
-          - publication
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
