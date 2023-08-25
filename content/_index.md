@@ -36,6 +36,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying
+        - title: Exchange student
+          company: Applied Mathematics, Sorbonne University
+          company_url: 'https://www.sorbonne-universite.fr/en'
+          company_logo: Sorbonne
+          location: Paris, France
+          date_start: '2019-09-01'
+          date_end: '2020-07-01'
+          description:
     design:
       columns: '2'
   - block: accomplishments
