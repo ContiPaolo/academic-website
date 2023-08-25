@@ -8,7 +8,7 @@ last_name: Conti
 
 # Status emoji
 status:
-  icon: 
+  icon: fab
 
 # Is this the primary user of the site?
 superuser: true
