@@ -186,6 +186,7 @@ sections:
     id: gymnastics
     content:
       title: Gymnastics
+      filters:
         folders:
           - gymnastics
     design:
