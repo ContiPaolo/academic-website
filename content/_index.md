@@ -201,9 +201,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-         \
-         
+      text: 
       # Contact (add or remove contact options as necessary)
       email: paolo.conti@polimi.it
       phone: (+39)3406332219
