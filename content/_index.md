@@ -207,7 +207,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: paolo.conti@polimi.it
       phone: (+39)3406332219
-      appointment_url: 'https://calendly.com'
+      # appointment_url: 'https://calendly.com'
       address:
         street: P.zza Leonardo Da Vinci, 32
         city: Milano
@@ -231,7 +231,7 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      #form:
+      # form:
       #  provider: netlify
       #  formspree:
       #    id:
