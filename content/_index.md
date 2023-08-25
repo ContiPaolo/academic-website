@@ -11,6 +11,50 @@ sections:
       title:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Research Intern
+          company: Artificial Intelligence Institute in Dynamic Systems
+          company_url: 'https://dynamicsai.org/'
+          company_logo: AI_logo
+          location: University of Washington, Seattle
+          date_start: '2022-10-01'
+          date_end: '2023-06-01'
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Exchange student
+          company: Applied Mathematics, Sorbonne University
+          company_url: 'https://www.sorbonne-universite.fr/en'
+          company_logo: Sorbonne
+          location: Paris, France
+          date_start: '2019-09-01'
+          date_end: '2020-07-01'
+          description:
+        - title: Professional Athlete
+          company: International Gymnastics Federation
+          company_url: ''
+          company_logo: org-x
+          location: Bergamo, Italy
+          date_start: '2010-01-01'
+          date_end: '2021-12-31'
+          description: Member of the National Team of Aerobic Gymnastics.
+            Experiences in coaching and coreographing in Italy, France, Finland, Hungary and Lithuania.
+    design:
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
