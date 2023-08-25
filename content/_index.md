@@ -168,8 +168,12 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: featured
     content:
       title: Recent Publications
+      filters:
+        folders:
+          - publication
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
