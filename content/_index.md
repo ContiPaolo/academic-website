@@ -47,7 +47,7 @@ sections:
         - title: Professional Athlete
           company: International Gymnastics Federation
           company_url: ''
-          company_logo: fgi
+          company_logo: FIG
           location: Bergamo, Italy
           date_start: '2010-01-01'
           date_end: '2021-12-31'
