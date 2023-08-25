@@ -46,6 +46,25 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
+    - title: Exchange student
+          company: Applied Mathematics, Sorbonne University
+          company_url: 'https://www.sorbonne-universite.fr/en'
+          company_logo: Sorbonne
+          location: Paris, France
+          date_start: '2019-09-01'
+          date_end: '2020-07-01'
+          description:
+        - title: Professional Athlete
+          company: International Gymnastics Federation
+          company_url: ''
+          company_logo: org-x
+          location: Bergamo, Italy
+          date_start: '2010-01-01'
+          date_end: '2021-12-31'
+          description: Member of the National Team of Aerobic Gymnastics.
+            Experiences in coaching and coreographing in Italy, France, Finland, Hungary and Lithuania.
+    design:
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
