@@ -30,12 +30,12 @@ sections:
           location: University of Washington, Seattle
           date_start: '2022-10-01'
           date_end: '2023-06-01'
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+     #     description: |2-
+     #         Responsibilities include:
+     #
+     #              * Analysing
+     #        * Modelling
+     #        * Deploying
         - title: Exchange student
           company: Applied Mathematics, Sorbonne University
           company_url: 'https://www.sorbonne-universite.fr/en'
