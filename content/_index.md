@@ -52,62 +52,50 @@ sections:
           location: Bergamo, Italy
           date_start: '2010-01-01'
           date_end: '2021-12-31'
-         description: Member of the National Team of Aerobic Gymnastics. World and European medallist. Experiences in coaching and coreographing in Italy, France, Finland, Hungary and Lithuania.       
+          description: Member of the National Team of Aerobic Gymnastics. World and European medallist.
+            Experiences in coaching and coreographing in Italy, France, Finland, Hungary and Lithuania.
+            
     design:
       columns: '2'
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: accomplishments
-  #   content:
-  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-  #     title: 'Accomplish&shy;ments'
-  #     subtitle:
-  #     # Date format: https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Accomplishments.
-  #     #   Add/remove as many `item` blocks below as you like.
-  #     #   `title`, `organization`, and `date_start` are the required parameters.
-  #     #   Leave other parameters empty if not required.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - certificate_url: https://www.coursera.org
-  #         date_end: ''
-  #         date_start: '2021-01-25'
-  #         description: ''
-  #         organization: Coursera
-  #         organization_url: https://www.coursera.org
-  #         title: Neural Networks and Deep Learning
-  #         url: ''
-  #       - certificate_url: https://www.edx.org
-  #         date_end: ''
-  #         date_start: '2021-01-01'
-  #         description: Formulated informed blockchain models, hypotheses, and use cases.
-  #         organization: edX
-  #         organization_url: https://www.edx.org
-  #         title: Blockchain Fundamentals
-  #         url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  #       - certificate_url: https://www.datacamp.com
-  #         date_end: '2020-12-21'
-  #         date_start: '2020-07-01'
-  #         description: ''
-  #         organization: DataCamp
-  #         organization_url: https://www.datacamp.com
-  #         title: 'Object-Oriented Programming in R'
-  #         url: ''
-  #   design:
-  #     columns: '2'
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: https://www.coursera.org
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Neural Networks and Deep Learning
+          url: ''
+        - certificate_url: https://www.edx.org
+          date_end: ''
+          date_start: '2021-01-01'
+          description: Formulated informed blockchain models, hypotheses, and use cases.
+          organization: edX
+          organization_url: https://www.edx.org
+          title: Blockchain Fundamentals
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
+          description: ''
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Object-Oriented Programming in R'
+          url: ''
+    design:
+      columns: '2'
   - block: collection
     id: posts
     content:
@@ -182,6 +170,20 @@ sections:
 #      columns: '2'
 #      view: card
   - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
     id: gymnastics
     content:
       title: Gymnastics
@@ -214,7 +216,7 @@ sections:
       text: 
       # Contact (add or remove contact options as necessary)
       email: paolo.conti@polimi.it
-      phone:
+      phone: (+39)3406332219
       # appointment_url: 'https://calendly.com'
       address:
         street: P.zza Leonardo Da Vinci, 32
