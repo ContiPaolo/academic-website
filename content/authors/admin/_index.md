@@ -26,9 +26,9 @@ bio: My research interests include reduced order modeling, multi-fidelity, ...
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Scientific Machine Learning
+  - Reduced Order Modeling
+  - Multi-fidelity data fusion
 
 # Education to show in About widget
 education:
