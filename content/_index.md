@@ -192,10 +192,10 @@ sections:
       #    icon_pack: fab
       #    name: DM Me
       #    link: 'https://twitter.com/Twitter'
-      #  - icon: skype
-      #    icon_pack: fab
-      #    name: Skype Me
-      #    link: 'skype:echo123?call'
+        - icon: linkedin
+          icon_pack: fab
+          name: Connect on
+          link: 'www.linkedin.com/in/paolo--conti'
       #  - icon: video
       #    icon_pack: fas
       #    name: Zoom Me
