@@ -36,3 +36,5 @@ The aim of our project is to try and understand what lies behind a song's popula
 As the project progressed, we realized that the musical characteristics of songs alone may not be enough to fully describe them.
 In fact, it's much easier for your song to become a worldwide hit if you're Rihanna or Eminem, rather than a street artist! We have therefore added a new variable to our data set, which takes into account the artist's previous popularity. Next, we'll build a linear model to predict the popularity of a given song.
 Do users prefer sad or happy music? Energetic or calm music? In this project, we try to answer the questions that guided our analysis.
+
+Contributors: Paolo Conti, Najwa Moursli, Federica Mattina and Nicolò Bonaldi.
