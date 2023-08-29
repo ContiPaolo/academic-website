@@ -195,7 +195,7 @@ sections:
         - icon: linkedin
           icon_pack: fab
           name: Connect on
-          link: 'www.linkedin.com/in/paolo--conti'
+          link: 'https://linkedin.com/in/paolo--conti'
       #  - icon: video
       #    icon_pack: fas
       #    name: Zoom Me
