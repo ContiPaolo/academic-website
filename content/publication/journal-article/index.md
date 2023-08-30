@@ -40,7 +40,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://arxiv.org/abs/2102.13403
-url_code: 'https://www.sciencedirect.com/science/article/pii/S0045782521006411'
+url_code: https://github.com/ContiPaolo/MultiFidelity_NNs
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -51,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Paolo Conti**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
