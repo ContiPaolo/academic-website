@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: github
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: code
+    url: https://github.com/ContiPaolo/Spotify_DataAnalysis
 url_code: ''
 url_pdf: ''
 url_slides: ''
