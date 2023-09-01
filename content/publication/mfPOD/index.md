@@ -40,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://www.researchgate.net/publication/373579998_Multi-fidelity_reduced-order_surrogate_modeling'
 url_code: 'https://github.com/ContiPaolo/MultiFidelity_POD'
 url_dataset: ''
 url_poster: ''
