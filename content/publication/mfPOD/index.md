@@ -46,7 +46,23 @@ defined by coarser meshes and/or time stepping, as well as by misspecified physi
 the onset of instabilities and transients are well captured by this surrogate modeling technique.
 
 # Summary. An optional shortened abstract.
-summary:
+summary: High-fidelity numerical simulations of partial differential equations (PDEs) given a restricted computational
+budget can significantly limit the number of parameter configurations considered and/or time window evaluated
+for modeling a given system. Multi-fidelity surrogate modeling aims to leverage less accurate, lowerfidelity
+models that are computationally inexpensive in order to enhance predictive accuracy when highfidelity
+data are limited or scarce. However, low-fidelity models, while often displaying important qualitative
+spatio-temporal features, fail to accurately capture the onset of instability and critical transients observed
+in the high-fidelity models, making them impractical as surrogate models. To address this shortcoming, we
+present a new data-driven strategy that combines dimensionality reduction with multi-fidelity neural network
+surrogates. The key idea is to generate a spatial basis by applying the classical proper orthogonal decomposition
+(POD) to high-fidelity solution snapshots, and approximate the dynamics of the reduced states —
+time-parameter-dependent expansion coefficients of the POD basis – using a multi-fidelity long-short term
+memory (LSTM) network. By mapping low-fidelity reduced states to their high-fidelity counterpart, the
+proposed reduced-order surrogate model enables the efficient recovery of full solution fields over time and
+parameter variations in a non-intrusive manner. The generality and robustness of this method is demonstrated
+by a collection of parametrized, time-dependent PDE problems where the low-fidelity model can be
+defined by coarser meshes and/or time stepping, as well as by misspecified physical features. Importantly,
+the onset of instabilities and transients are well captured by this surrogate modeling technique.
 
 
 tags:
