@@ -41,8 +41,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://arxiv.org/pdf/2208.03115.pdf'
-url_code: 'https://www.sciencedirect.com/science/article/abs/pii/S0045782522007678'
+url_pdf: 'https://www.researchgate.net/publication/373579998_Multi-fidelity_reduced-order_surrogate_modeling'
+url_code: 'https://github.com/ContiPaolo/MultiFidelity_POD'
 url_dataset: ''
 url_poster: ''
 url_project: ''
