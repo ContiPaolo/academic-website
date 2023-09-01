@@ -24,8 +24,8 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computer Methods in Applied Mechanics and Engineering*"
-publication_short: "CMAME"
+publication: ""
+publication_short: ""
 
 abstract: When evaluating quantities of interest that depend on the solutions to differential equations, we inevitably face the trade-off between accuracy and efficiency. Especially for parametrized, time-dependent problems in engineering computations, it is often the case that acceptable computational budgets limit the availability of high-fidelity, accurate simulation data. Multi-fidelity surrogate modeling has emerged as an effective strategy to overcome this difficulty. Its key idea is to leverage many low-fidelity simulation data, less accurate but much faster to compute, to improve the approximations with limited high-fidelity data. In this work, we introduce a novel data-driven framework of multi-fidelity surrogate modeling for parametrized, time-dependent problems using long short-term memory (LSTM) networks, to enhance output predictions both for unseen parameter values and forward in time simultaneously — a task known to be particularly challenging for data-driven models. We demonstrate the wide applicability of the proposed approaches in a variety of engineering problems with high- and low-fidelity data generated through fine versus coarse meshes, small versus large time steps, or finite element full order versus deep learning reduced-order models. Numerical results show that the proposed multi-fidelity LSTM networks not only improve single-fidelity regression significantly, but also outperform the multi-fidelity models based on feed-forward neural networks.
 
