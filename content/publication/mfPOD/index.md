@@ -46,7 +46,7 @@ defined by coarser meshes and/or time stepping, as well as by misspecified physi
 the onset of instabilities and transients are well captured by this surrogate modeling technique.
 
 # Summary. An optional shortened abstract.
-summary: High-fidelity numerical simulations of partial differential equations (PDEs) given a restricted computational budget can significantly limit the number of parameter configurations considered and/or time window evaluated. Multi-fidelity surrogate modeling aims to leverage less accurate, lower-fidelity models that are computationally inexpensive in order to enhance predictive accuracy when high-fidelity data are scarce.  However, low-fidelity models, while often displaying the qualitative solution behavior, fail to accurately capture fine spatio-temporal and dynamic features of high-fidelity models.  To address this shortcoming, we present a data-driven strategy that combines dimensionality reduction with multi-fidelity neural network surrogates.  The key idea is to generate a spatial basis by applying proper orthogonal decomposition (POD) to high-fidelity solution snapshots, and approximate the dynamics of the reduced states — time-parameter-dependent expansion coefficients of the POD basis — using a multi-fidelity long-short term memory (LSTM) network.  By mapping low-fidelity reduced states to their high-fidelity counterpart, the proposed reduced-order surrogate model enables the efficient recovery of full solution fields over time and parameter variations in a non-intrusive manner. The generality of this method is demonstrated by a collection of PDE problems where the low-fidelity model can be defined by coarser meshes and/or time stepping, as well as by misspecified physical features.
+summary:
 
 
 tags:
