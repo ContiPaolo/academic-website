@@ -7,12 +7,12 @@ authors:
 - Attilio Frangi
 - J. Nathan Kutz
 - Steven L. Brunton
-
+- 
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2023-02-01T00:00:00Z"
-doi: 
+doi: "https://doi.org/10.1016/j.cma.2022.115811"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -78,3 +78,5 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
