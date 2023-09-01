@@ -24,45 +24,13 @@ doi:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: 
-publication_short: 
+publication: "*Computer Methods in Applied Mechanics and Engineering*"
+publication_short: "CMAME"
 
-abstract: High-fidelity numerical simulations of partial differential equations (PDEs) given a restricted computational
-budget can significantly limit the number of parameter configurations considered and/or time window evaluated
-for modeling a given system. Multi-fidelity surrogate modeling aims to leverage less accurate, lowerfidelity
-models that are computationally inexpensive in order to enhance predictive accuracy when highfidelity
-data are limited or scarce. However, low-fidelity models, while often displaying important qualitative
-spatio-temporal features, fail to accurately capture the onset of instability and critical transients observed
-in the high-fidelity models, making them impractical as surrogate models. To address this shortcoming, we
-present a new data-driven strategy that combines dimensionality reduction with multi-fidelity neural network
-surrogates. The key idea is to generate a spatial basis by applying the classical proper orthogonal decomposition
-(POD) to high-fidelity solution snapshots, and approximate the dynamics of the reduced states —
-time-parameter-dependent expansion coefficients of the POD basis – using a multi-fidelity long-short term
-memory (LSTM) network. By mapping low-fidelity reduced states to their high-fidelity counterpart, the
-proposed reduced-order surrogate model enables the efficient recovery of full solution fields over time and
-parameter variations in a non-intrusive manner. The generality and robustness of this method is demonstrated
-by a collection of parametrized, time-dependent PDE problems where the low-fidelity model can be
-defined by coarser meshes and/or time stepping, as well as by misspecified physical features. Importantly,
-the onset of instabilities and transients are well captured by this surrogate modeling technique.
+abstract: When evaluating quantities of interest that depend on the solutions to differential equations, we inevitably face the trade-off between accuracy and efficiency. Especially for parametrized, time-dependent problems in engineering computations, it is often the case that acceptable computational budgets limit the availability of high-fidelity, accurate simulation data. Multi-fidelity surrogate modeling has emerged as an effective strategy to overcome this difficulty. Its key idea is to leverage many low-fidelity simulation data, less accurate but much faster to compute, to improve the approximations with limited high-fidelity data. In this work, we introduce a novel data-driven framework of multi-fidelity surrogate modeling for parametrized, time-dependent problems using long short-term memory (LSTM) networks, to enhance output predictions both for unseen parameter values and forward in time simultaneously — a task known to be particularly challenging for data-driven models. We demonstrate the wide applicability of the proposed approaches in a variety of engineering problems with high- and low-fidelity data generated through fine versus coarse meshes, small versus large time steps, or finite element full order versus deep learning reduced-order models. Numerical results show that the proposed multi-fidelity LSTM networks not only improve single-fidelity regression significantly, but also outperform the multi-fidelity models based on feed-forward neural networks.
 
 # Summary. An optional shortened abstract.
-summary: High-fidelity numerical simulations of partial differential equations (PDEs) given a restricted computational
-budget can significantly limit the number of parameter configurations considered and/or time window evaluated
-for modeling a given system. Multi-fidelity surrogate modeling aims to leverage less accurate, lowerfidelity
-models that are computationally inexpensive in order to enhance predictive accuracy when highfidelity
-data are limited or scarce. However, low-fidelity models, while often displaying important qualitative
-spatio-temporal features, fail to accurately capture the onset of instability and critical transients observed
-in the high-fidelity models, making them impractical as surrogate models. To address this shortcoming, we
-present a new data-driven strategy that combines dimensionality reduction with multi-fidelity neural network
-surrogates. The key idea is to generate a spatial basis by applying the classical proper orthogonal decomposition
-(POD) to high-fidelity solution snapshots, and approximate the dynamics of the reduced states —
-time-parameter-dependent expansion coefficients of the POD basis – using a multi-fidelity long-short term
-memory (LSTM) network. By mapping low-fidelity reduced states to their high-fidelity counterpart, the
-proposed reduced-order surrogate model enables the efficient recovery of full solution fields over time and
-parameter variations in a non-intrusive manner. The generality and robustness of this method is demonstrated
-by a collection of parametrized, time-dependent PDE problems where the low-fidelity model can be
-defined by coarser meshes and/or time stepping, as well as by misspecified physical features. Importantly,
-the onset of instabilities and transients are well captured by this surrogate modeling technique.
+summary: When evaluating quantities of interest that depend on the solutions to differential equations, we inevitably face the trade-off between accuracy and efficiency. Especially for parametrized, time-dependent problems in engineering computations, it is often the case that acceptable computational budgets limit the availability of high-fidelity, accurate simulation data. Multi-fidelity surrogate modeling has emerged as an effective strategy to overcome this difficulty. Its key idea is to leverage many low-fidelity simulation data, less accurate but much faster to compute, to improve the approximations with limited high-fidelity data. In this work, we introduce a novel data-driven framework of multi-fidelity surrogate modeling for parametrized, time-dependent problems using long short-term memory (LSTM) networks, to enhance output predictions both for unseen parameter values and forward in time simultaneously — a task known to be particularly challenging for data-driven models. We demonstrate the wide applicability of the proposed approaches in a variety of engineering problems with high- and low-fidelity data generated through fine versus coarse meshes, small versus large time steps, or finite element full order versus deep learning reduced-order models. Numerical results show that the proposed multi-fidelity LSTM networks not only improve single-fidelity regression significantly, but also outperform the multi-fidelity models based on feed-forward neural networks.
 
 
 tags:
@@ -110,5 +78,3 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
