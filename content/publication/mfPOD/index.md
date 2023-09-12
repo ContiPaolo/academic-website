@@ -12,7 +12,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2023-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.48550/arXiv.2309.0032"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
