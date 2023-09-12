@@ -22,7 +22,7 @@ organizations:
    url: https://www.polimi.it/
    
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reduced order modeling, multi-fidelity, ...
+bio: My research interests include scientific machine learning, multi-fidelity and reduced-order modeling.
 
 # Interests to show in About widget
 interests:
