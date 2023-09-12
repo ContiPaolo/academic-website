@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Paolo Contii
+title: Paolo Conti
 
 # Full name (for SEO)
 first_name: Paolo
