@@ -10,7 +10,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2023-02-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.cma.2022.115811"
+doi: 
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
