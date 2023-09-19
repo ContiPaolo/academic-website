@@ -7,8 +7,9 @@ authors:
 - Attilio Frangi
 - J. Nathan Kutz
 - Steven L. Brunton
+- 
 date: "2023-08-03T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.48550/arXiv.2309.0032"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-08T00:00:00Z"
@@ -32,7 +33,7 @@ abstract: Mesh-based simulations play a key role when modeling complex physical 
 #- Source Themes
 featured: false
 
-url_pdf: https://arxiv.org/pdf/2308.01602.pdf
+url_pdf: "https://doi.org/10.48550/arXiv.2309.0032"
 url_code:
 url_dataset: ''
 url_poster: ''
