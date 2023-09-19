@@ -9,7 +9,7 @@ authors:
 - Steven L. Brunton
 
 date: "2023-08-03T00:00:00Z"
-doi: "https://arxiv.org/abs/2309.00325"
+doi: "https://doi.org/10.48550/arXiv.2309.00325"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-08T00:00:00Z"
