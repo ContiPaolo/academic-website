@@ -39,7 +39,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: 'https://arxiv.org/pdf/2208.03115.pdf'
-url_code: 'https://www.sciencedirect.com/science/article/abs/pii/S0045782522007678'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
