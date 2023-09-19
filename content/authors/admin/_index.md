@@ -34,10 +34,10 @@ interests:
 education:
   courses:
     - course: PhD in Machine Learning (in progress)
-      institution: Politecnico di Milano
+      institution: Politecnico di Milano, University of Washington
       year: 
     - course: MSc in Mathematical Engineering  
-      institution: Politecnico di Milano
+      institution: Politecnico di Milano, Sorbonne University
       year: 2021
     - course: BSc in Mathematical Engineering 
       institution: Politecnico di Milano
