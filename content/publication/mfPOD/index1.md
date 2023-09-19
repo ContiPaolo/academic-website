@@ -7,7 +7,7 @@ authors:
 - Attilio Frangi
 - J. Nathan Kutz
 - Steven L. Brunton
-- 
+
 date: "2023-08-03T00:00:00Z"
 doi: "https://doi.org/10.48550/arXiv.2309.0032"
 
@@ -35,7 +35,7 @@ abstract: High-fidelity numerical simulations of partial differential equations 
 featured: false
 
 url_pdf: "https://doi.org/10.48550/arXiv.2309.0032"
-url_code:
+url_code: "https://github.com/ContiPaolo/MultiFidelity_POD"
 url_dataset: ''
 url_poster: ''
 url_project: ''
