@@ -1,10 +1,12 @@
 ---
 title: "Deep Learning-based surrogate models for parametrized PDEs: handling geometric variability through graph neural networks"
 authors:
-- Nicola Rares Franco
 - admin
-- Filippo Tombari
+- Mengwu Guo
 - Andrea Manzoni
+- Attilio Frangi
+- J. Nathan Kutz
+- Steven L. Brunton
 date: "2023-08-03T00:00:00Z"
 doi: ""
 
