@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning-based surrogate models for parametrized PDEs: handling geometric variability through graph neural networks"
+title: "Multi-fidelity reduced-order surrogate modeling"
 authors:
 - admin
 - Mengwu Guo
