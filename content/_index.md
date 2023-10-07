@@ -26,7 +26,7 @@ sections:
         - title: Visting Researcher
           company: SimTech - Cluster of Excellence
           company_url: 'https://www.simtech.uni-stuttgart.de/'
-          company_logo: AI_logo
+          company_logo: logo_simtech
           location: University of Stuttgart, Germany
           date_start: '2023-10-01'
           date_end: '2023-11-01'
