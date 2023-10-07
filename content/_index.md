@@ -23,11 +23,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Visiting Researcher
+          company: SimTech Cluster of Excellence
+          company_url: 'https://www.simtech.uni-stuttgart.de/'
+          company_logo: symtech_logo
+          location: University of Stuttgart, Germany
+          date_start: '2022-10-01'
+          date_end: '2023-06-01'
+          description: Development of machine learning algorithms for dimensionality reduction and system identification in complex, high-dimensional scenarios in engineering sciences.
         - title: Research Intern
           company: Artificial Intelligence Institute in Dynamic Systems
           company_url: 'https://dynamicsai.org/'
           company_logo: AI_logo
-          location: University of Washington, Seattle
+          location: University of Washington, Seattle (USA)
           date_start: '2022-10-01'
           date_end: '2023-06-01'
           description: Development of machine learning algorithms for dimensionality reduction and system identification in complex, high-dimensional scenarios in engineering sciences.
