@@ -29,7 +29,7 @@ sections:
           company_logo: AI_logo
           location: University of Stuttgart, Germany
           date_start: '2023-10-01'
-          # date_end: '2023-06-01'
+      # date_end: '2023-06-01'
           description: ...
         - title: Research Intern
           company: Artificial Intelligence Institute in Dynamic Systems
