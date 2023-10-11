@@ -30,7 +30,7 @@ sections:
           location: University of Stuttgart, Germany
           date_start: '2023-10-01'
           date_end: '2023-11-01'
-          description: ...
+          description: Development of a reduced-order modeling with uncertainty quantification framework using generative AI algorithms.
         - title: Research Intern
           company: Artificial Intelligence Institute in Dynamic Systems
           company_url: 'https://dynamicsai.org/'
