@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Machine Learning
+role: PhD student in Scientific Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Machine Learning (in progress)
+    - course: PhD in Scientific Machine Learning (in progress)
       institution: Politecnico di Milano, University of Washington
       year: 
     - course: MSc in Mathematical Engineering  
