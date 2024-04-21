@@ -24,6 +24,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Visting Researcher
+          company: Imperial College London
+          company_url: 'https://www.imperial.ac.uk/'
+          company_logo: logo_simtech
+          location: London, UK
+          date_start: '2023-12-01'
+          date_end: '2024-01-01'
+          description: Development of a reduced-order modeling with uncertainty quantification framework using generative AI algorithms.
+        - title: Visting Researcher
           company: SimTech - Cluster of Excellence
           company_url: 'https://www.simtech.uni-stuttgart.de/'
           company_logo: logo_simtech
