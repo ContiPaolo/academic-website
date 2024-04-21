@@ -26,7 +26,7 @@ sections:
         - title: Visting Researcher
           company: Imperial College London
           company_url: 'https://www.imperial.ac.uk/'
-          company_logo: logo_simtech
+          company_logo: logo_ICL
           location: London, UK
           date_start: '2023-12-01'
           date_end: '2024-01-01'
