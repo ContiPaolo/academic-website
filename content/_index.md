@@ -74,8 +74,10 @@ sections:
           location: Bergamo, Italy
           date_start: '2010-01-01'
           date_end: '2021-12-31'
-          description: Member of the National Team of Aerobic Gymnastics. World and European medallist.
-            Experiences in coaching and coreographing in Italy, France, Finland, Hungary, Lithuania and United States.
+          description: |
+              - Member of the National Team of Aerobic Gymnastics.
+              - World and European medallist.
+              - Experiences in coaching and coreographing in Italy, France, Finland, Hungary, Lithuania and United States.
             
     design:
       columns: '2'
