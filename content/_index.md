@@ -46,6 +46,7 @@ sections:
 
 
 
+
                                   
         - title: Research Intern
           company: Artificial Intelligence Institute in Dynamic Systems
