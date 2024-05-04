@@ -31,15 +31,20 @@ sections:
           date_start: '2023-12-01'
           date_end: '2024-01-01'
           description: Leaded a research project to develop a generative AI/ML framework for reduced-order modeling under uncertainty. 
-        - title: Visting Researcher
-          company: SimTech - Cluster of Excellence
-          company_url: 'https://www.simtech.uni-stuttgart.de/'
-          company_logo: logo_simtech
-          location: University of Stuttgart, Germany
-          date_start: '2023-10-01'
-          date_end: '2023-11-01'
-          description:
-    - Development of a reduced-order modeling with uncertainty quantification framework using generative AI algorithms.
+- title: Visting Researcher
+  company: SimTech - Cluster of Excellence
+  company_url: 'https://www.simtech.uni-stuttgart.de/'
+  company_logo: logo_simtech
+  location: University of Stuttgart, Germany
+  date_start: '2023-10-01'
+  date_end: '2023-11-01'
+  description: |
+    Development of a reduced-order modeling with uncertainty quantification framework using generative AI algorithms.
+
+    - Bullet point 1
+    - Bullet point 2
+    - Bullet point 3
+
                                   
         - title: Research Intern
           company: Artificial Intelligence Institute in Dynamic Systems
