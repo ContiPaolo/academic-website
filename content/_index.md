@@ -50,9 +50,9 @@ sections:
           date_end: '2023-06-01'
           description:  |
             Developed ML algorithms for dimensionality reduction and system identification in complex, high-dimensional scenarios in engineering sciences.
-            - Bullet point 1
-            - Bullet point 2
-            - Bullet point 3
+            - Designed and constructed physics-informed models for Micro-Electrical Mechanical Systems (MEMS) devices. Application and validation on MEMS micromirrors and resonator devices.
+            - Developed a multi-fidelity method to recover and predict high-quality solutions from multiple, low-fidelity data sources.
+    
      #     description: |2-
      #         Responsibilities include:
      #
