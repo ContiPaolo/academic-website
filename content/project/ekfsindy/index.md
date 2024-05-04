@@ -1,6 +1,6 @@
 ---
-title: Coupling data assimilation with system identification to build a data-driven digital twin
-summary: EKF-SINDy digital twin
+title: EKF-SINDy digital twin 
+summary: Coupling data assimilation with system identification to build a data-driven digital twin
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
