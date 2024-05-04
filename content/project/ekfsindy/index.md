@@ -1,5 +1,6 @@
 ---
-title: Data-driven digital twin: coupling data assimilation with system identification
+title: What do you need to climb the charts?
+summary: Analysis of a Spotify dataset.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
@@ -15,7 +16,7 @@ links:
   - icon: github
     icon_pack: fab
     name: code
-    url: https://github.com/ContiPaolo/EKF-SINDy
+    url: https://github.com/ContiPaolo/Spotify_DataAnalysis
 url_code: ''
 url_pdf: ''
 url_slides: ''
