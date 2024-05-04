@@ -30,7 +30,7 @@ sections:
           location: London, UK
           date_start: '2023-12-01'
           date_end: '2024-01-01'
-          description: Development of a reduced-order modeling with uncertainty quantification framework using generative AI algorithms.
+          description: Leaded a research project to develop a generative AI/ML framework for reduced-order modeling under uncertainty. 
         - title: Visting Researcher
           company: SimTech - Cluster of Excellence
           company_url: 'https://www.simtech.uni-stuttgart.de/'
