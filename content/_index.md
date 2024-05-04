@@ -66,7 +66,7 @@ sections:
           location: Paris, France
           date_start: '2019-09-01'
           date_end: '2020-07-01'
-          description: One year exchange program to study and work on projects related to bayesian statistics, high performance computing and discrete/continuum optimization.
+          description: Study abroad coursework in the departments of Applied Mathematics and Sorbonne Polytech.
         - title: Professional Athlete
           company: International Gymnastics Federation
           company_url: ''
