@@ -75,8 +75,8 @@ sections:
           date_start: '2010-01-01'
           date_end: '2021-12-31'
           description: |
-              - Member of the National Team of Aerobic Gymnastics.
-              - World and European medallist.
+              - Member of the National Team of Aerobic Gymnastics from 2010 to 2021.
+              - World medallist and European champion.
               - Experiences in coaching and coreographing in Italy, France, Finland, Hungary, Lithuania and United States.
             
     design:
