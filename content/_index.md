@@ -46,7 +46,9 @@ sections:
           location: University of Washington, Seattle (US)
           date_start: '2022-10-01'
           date_end: '2023-06-01'
-          description: Development of machine learning algorithms for dimensionality reduction and system identification in complex, high-dimensional scenarios in engineering sciences.
+          description: Developed ML algorithms for dimensionality reduction and system identification in complex, high-dimensional scenarios in engineering sciences.
+    - Designed and constructed physics-informed models for Micro-Electrical Mechanical Systems (MEMS) devices. Application and validation on MEMS micromirrors and resonator devices.
+    - Developed a multi-fidelity method to recover and predict high-quality solutions from multiple, low-fidelity data sources.
      #     description: |2-
      #         Responsibilities include:
      #
