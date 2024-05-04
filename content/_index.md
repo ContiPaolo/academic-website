@@ -38,7 +38,11 @@ sections:
           location: University of Stuttgart, Germany
           date_start: '2023-10-01'
           date_end: '2023-11-01'
-          description: Development of a reduced-order modeling with uncertainty quantification framework using generative AI algorithms.
+          description:     Development of a reduced-order modeling with uncertainty quantification framework using generative AI algorithms.
+
+    - Bullet point 1
+    - Bullet point 2
+    - Bullet point 3
 
                                   
         - title: Research Intern
