@@ -39,7 +39,7 @@ sections:
           date_start: '2023-10-01'
           date_end: '2023-11-01'
           description: |
-            Development of a reduced-order modeling with uncertainty quantification framework using generative AI algorithms.
+            Conceptualized and implemented a data-driven system identification method based on variational inference to account for model and measurement uncertainties in reduced-order modeling.
  
         - title: Research Intern
           company: Artificial Intelligence Institute in Dynamic Systems
