@@ -40,10 +40,7 @@ sections:
           date_end: '2023-11-01'
           description: |
             Development of a reduced-order modeling with uncertainty quantification framework using generative AI algorithms.
-            - Bullet point 1
-            - Bullet point 2
-            - Bullet point 3
-                                  
+ 
         - title: Research Intern
           company: Artificial Intelligence Institute in Dynamic Systems
           company_url: 'https://dynamicsai.org/'
@@ -51,7 +48,11 @@ sections:
           location: University of Washington, Seattle (US)
           date_start: '2022-10-01'
           date_end: '2023-06-01'
-          description: Developed ML algorithms for dimensionality reduction and system identification in complex, high-dimensional scenarios in engineering sciences.
+          description:  |
+            Developed ML algorithms for dimensionality reduction and system identification in complex, high-dimensional scenarios in engineering sciences.
+            - Bullet point 1
+            - Bullet point 2
+            - Bullet point 3
      #     description: |2-
      #         Responsibilities include:
      #
