@@ -1,6 +1,5 @@
 ---
-title: What do you need to climb the charts?
-summary: Analysis of a Spotify dataset.
+title: Data-driven digital twin: coupling data assimilation with system identification
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
@@ -16,7 +15,7 @@ links:
   - icon: github
     icon_pack: fab
     name: code
-    url: https://github.com/ContiPaolo/Spotify_DataAnalysis
+    url: https://github.com/ContiPaolo/EKF-SINDy
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -30,11 +29,6 @@ url_video: ''
 # slides: example
 ---
 
-Today, Spotify is undoubtedly one of the most popular and widely used music platforms.
-music platforms. More than 40 million tracks by over 2 million artists are available, but only a few thousand are popular with users. So these questions come naturally: what are the common properties of popular songs? What does an artist need in order for their song to climb the charts?
-The aim of our project is to try and understand what lies behind a song's popularity, and whether it can be predicted on the basis of song characteristics. To do this, it was fundamental to try and divide songs into groups, according to musical genre, so some grouping was necessary by clustering through unsupervised classification.
-As the project progressed, we realized that the musical characteristics of songs alone may not be enough to fully describe them.
-In fact, it's much easier for your song to become a worldwide hit if you're Rihanna or Eminem, rather than a street artist! We have therefore added a new variable to our data set, which takes into account the artist's previous popularity. Next, we'll build a linear model to predict the popularity of a given song.
-Do users prefer sad or happy music? Energetic or calm music? In this project, we try to answer the questions that guided our analysis.
+Observed data from a dynamic system can be assimilated into a predictive model by means of Kalman filters. Nonlinear extensions of the Kalman filter, such as the Extended Kalman Filter (EKF), are required to enable the joint estimation of (possibly nonlinear) system dynamics and of input parameters. To construct the evolution model used in the prediction phase of the EKF, we propose to rely on the Sparse Identification of Nonlinear Dynamics (SINDy). The numerical integration of a SINDy model leads to great computational savings compared to alternate strategies based on, e.g., finite elements. Indeed, SINDy allows for the immediate definition of the Jacobian matrices required by the EKF to identify system dynamics and properties, a derivation that is usually extremely involved with physical models. As a result, combining the EKF with SINDy provides a computationally efficient, easy-to-apply approach for the identification of nonlinear systems, capable of robust operation even outside the range of training of SINDy. To demonstrate the potential of the approach, we address the identification of a linear non-autonomous system consisting of a shear building model excited by real seismograms, and the identification of a partially observed nonlinear system. The challenge arising from applying SINDy when the system state is not accessible has been relieved by means of time-delay embedding. The great accuracy and the small uncertainty associated with the state identification, where the state has been augmented to include system properties, underscores the great potential of the proposed strategy, paving the way for the development of predictive digital twins in different fields.
 
-Contributors: Paolo Conti, Najwa Moursli, Federica Mattina and Nicolò Bonaldi.
+Contributors: Luca Rosafalco, Paolo Conti.
