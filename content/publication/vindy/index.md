@@ -1,11 +1,12 @@
 ---
 title: "EKF-SINDy: Empowering the extended Kalman filter with sparse identification of nonlinear dynamics"
 authors:
-- Luca Rosafalco
 - admin
+- Jonas Kneifl
 - Andrea Manzoni
-- Stefano Mariani
 - Attilio Frangi
+- Steven L Brunton
+- J Nathan Kutz
 
 date: "2024-04-01T00:00:00Z"
 doi: "https://doi.org/10.48550/arXiv.2404.07536"
