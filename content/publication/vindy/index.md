@@ -5,8 +5,8 @@ authors:
 - Jonas Kneifl
 - Andrea Manzoni
 - Attilio Frangi
-- Steven L Brunton
-- J Nathan Kutz
+- Steven L. Brunton
+- J. Nathan Kutz
 
 date: "2024-06-01T00:00:00Z"
 doi: "https://doi.org/10.48550/arXiv.2405.20905"
