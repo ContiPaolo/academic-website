@@ -1,5 +1,5 @@
 ---
-title: "EKF-SINDy: Empowering the extended Kalman filter with sparse identification of nonlinear dynamics"
+title: "VENI, VINDy, VICI: a variational reduced-order modeling framework with uncertainty quantification"
 authors:
 - admin
 - Jonas Kneifl
