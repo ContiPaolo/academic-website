@@ -5,8 +5,8 @@ authors:
 - Mengwu Guo
 - Andrea Manzoni
 - Attilio Frangi
-- J. Nathan Kutz
 - Steven L. Brunton
+- J. Nathan Kutz
 
 date: "2024-01-01T00:00:00Z"
 doi: "https://doi.org/10.48550/arXiv.2309.00325"
