@@ -8,7 +8,7 @@ authors:
 - Attilio Frangi
 
 date: "2024-04-01T00:00:00Z"
-doi: "https://doi.org/10.48550/arXiv.2404.07536"
+doi: "https://www.sciencedirect.com/science/article/pii/S0045782524005206"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-04-01T00:00:00Z"
