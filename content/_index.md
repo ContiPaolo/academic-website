@@ -183,7 +183,7 @@ sections:
         region: MI
         postcode: '20133'
         country: Italy
-      directions:  Department of Civil and Environmental Engineering. Building 4
+      directions:  Department of Mathematics. Building 6
       contact_links:
       #  - icon: twitter
       #    icon_pack: fab
