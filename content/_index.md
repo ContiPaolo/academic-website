@@ -30,7 +30,10 @@ sections:
           location: London, UK
           date_start: '2023-12-01'
           date_end: '2024-01-01'
-          description: Leaded a research project to develop a generative AI/ML framework for reduced-order modeling under uncertainty. 
+          description:  |
+            Led a research project to develop generative AI/ML frameworks for data-driven, reduced-order modeling under uncertainty.
+            - Conceptualized and implemented a data-driven framework based on variational reduced-order modeling with variational dynamics identification for scientific discovery in the presence of model and measurement uncertainties.
+      
         - title: Visting Researcher
           company: SimTech - Cluster of Excellence
           company_url: 'https://www.simtech.uni-stuttgart.de/'
@@ -39,7 +42,7 @@ sections:
           date_start: '2023-10-01'
           date_end: '2023-11-01'
           description: |
-            Conceptualized and implemented a data-driven system identification method based on variational inference to account for model and measurement uncertainties in reduced-order modeling.
+            Developed the Python package VINDy to perform data-driven modeling of dynamical systems with generative AI.
  
         - title: Research Intern
           company: Artificial Intelligence Institute in Dynamic Systems
