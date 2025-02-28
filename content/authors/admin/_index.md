@@ -80,5 +80,5 @@ email: 'paolo.conti@polimi.it'
 highlight_name: true
 ---
 
-I am a PhD student in scientific machine learning at Polytechnic University of Milan. I am fascinated by the immense world that arises from blending core numerical methods with artificial intelligence learning techniques, which is what I am focusing on in my research activities. Lifelong learning is my attitude, and working day-by-day for long-term goals is my methodology. Mathematical engineer by formation, aerobic gymnast by passion.
+I am a Research Associate in Fundamental Research in AI at The Alan Turing Institute. I am fascinated by the immense world that arises from blending core numerical methods with artificial intelligence learning techniques, which is what I am focusing on in my research activities. Lifelong learning is my attitude, and working day-by-day for long-term goals is my methodology. Mathematical engineer by formation, aerobic gymnast by passion.
 {style="text-align: justify;"}
