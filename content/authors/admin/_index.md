@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Scientific Machine Learning
+role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
- - name: Politecnico di Milano
-   url: https://www.polimi.it/
+ - name: The Alan Turing Institute
+   url: https://www.turing.ac.uk/
    
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include scientific machine learning, multi-fidelity and reduced-order modeling.
@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Scientific Machine Learning (in progress)
+    - course: PhD in Scientific Machine Learning
       institution: Politecnico di Milano, University of Washington
       year: 
     - course: MSc in Mathematical Engineering  
