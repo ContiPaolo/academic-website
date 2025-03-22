@@ -44,7 +44,7 @@ sections:
           description: |
             Developed the Python package VINDy to perform data-driven modeling of dynamical systems with generative AI.
  
-        - title: Research Intern
+        - title: Visiting Research Scientist
           company: Artificial Intelligence Institute in Dynamic Systems
           company_url: 'https://dynamicsai.org/'
           company_logo: AI_logo
