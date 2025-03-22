@@ -8,7 +8,7 @@ authors:
 - Attilio Frangi
 
 date: "2024-11-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.cma.2024.117264"
+doi: "https://doi.org/10.48550/arXiv.2411.04842"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-11-01T00:00:00Z"
@@ -33,7 +33,7 @@ abstract: "We propose the use of the Extended Kalman Filter (EKF) for online dat
 #- Source Themes
 featured: false
 
-url_pdf: "https://arxiv.org/abs/2404.07536"
+url_pdf: "https://arxiv.org/abs/2411.04842"
 url_code: "https://github.com/ContiPaolo/EKF-SINDy"
 url_dataset: ''
 url_poster: ''
