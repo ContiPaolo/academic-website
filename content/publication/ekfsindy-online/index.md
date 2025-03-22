@@ -7,11 +7,11 @@ authors:
 - Stefano Mariani
 - Attilio Frangi
 
-date: "2024-04-01T00:00:00Z"
+date: "2024-11-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.cma.2024.117264"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-04-01T00:00:00Z"
+publishDate: "2024-11-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,10 +20,10 @@ publishDate: "2024-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "CMAME"
+publication: "Nonlinear Dynamics"
 publication_short: ""
 
-abstract: Observed data from a dynamic system can be assimilated into a predictive model by means of Kalman filters. Nonlinear extensions of the Kalman filter, such as the Extended Kalman Filter (EKF), are required to enable the joint estimation of (possibly nonlinear) system dynamics and of input parameters. To construct the evolution model used in the prediction phase of the EKF, we propose to rely on the Sparse Identification of Nonlinear Dynamics (SINDy). The numerical integration of a SINDy model leads to great computational savings compared to alternate strategies based on, e.g., finite elements. Indeed, SINDy allows for the immediate definition of the Jacobian matrices required by the EKF to identify system dynamics and properties, a derivation that is usually extremely involved with physical models. As a result, combining the EKF with SINDy provides a computationally efficient, easy-to-apply approach for the identification of nonlinear systems, capable of robust operation even outside the range of training of SINDy. To demonstrate the potential of the approach, we address the identification of a linear non-autonomous system consisting of a shear building model excited by real seismograms, and the identification of a partially observed nonlinear system. The challenge arising from applying SINDy when the system state is not accessible has been relieved by means of time-delay embedding. The great accuracy and the small uncertainty associated with the state identification, where the state has been augmented to include system properties, underscores the great potential of the proposed strategy, paving the way for the development of predictive digital twins in different fields.
+abstract: We propose the use of the Extended Kalman Filter (EKF) for online data assimilation and update of a dynamic model, preliminary identified through the Sparse Identification of Nonlinear Dynamics (SINDy). This data-driven technique may avoid biases due to incorrect modelling assumptions and exploits SINDy to approximate the system dynamics leveraging a predefined library of functions, where active terms are selected and weighted by a sparse set of coefficients. This results in a physically-sound and interpretable dynamic model allowing to reduce epistemic uncertainty often affecting machine learning approaches. Treating the SINDy model coefficients as random variables, we propose to update them while acquiring (possibly noisy) system measurements, thus enabling the online identification of time-varying systems. These changes can stem from, e.g., varying operational conditions or unforeseen events. The EKF performs model adaptation through joint state-parameters estimation, with the Jacobian matrices required to computed the model sensitivity inexpensively evaluated from the SINDy model formulation. The effectiveness of this approach is demonstrated through three case studies: (i) a Lokta-Volterra model in which all parameters simultaneously evolve during the observation period; (ii) a Selkov model where the system undergoes a bifurcation not seen during the SINDy training; (iii) a MEMS arch exhibiting a 1:2 internal resonance. The ability of EKF of recovering inactivated functional terms from the SINDy library, or discarding unnecessary contribution, is also highlighted. Based on the presented applications, this method shows strong promise for handling time-varying nonlinear dynamic systems possibly experiencing bifurcating behaviours.
 
 
 # Summary. An optional shortened abstract.
