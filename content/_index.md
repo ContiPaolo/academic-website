@@ -31,7 +31,7 @@ sections:
           date_start: '2025-03-03'
           date_end: ''
           description:  |
-            Research Associate in Fundamental Research in AI for physical systems, with the aim of developing the next generation of foundational methods, tools and theory to enable modelling, prediction and control of physical systems. identification for scientific discovery in the presence of model and measurement uncertainties.
+            Research Associate in Fundamental Research in AI for physical systems, with the aim of developing the next generation of foundational methods, tools and theory to enable modelling, prediction and control of physical systems. 
         - title: Visting Researcher
           company: Imperial College London
           company_url: 'https://www.imperial.ac.uk/'
