@@ -186,16 +186,16 @@ sections:
       subtitle:
       text: 
       # Contact (add or remove contact options as necessary)
-      email: paolo.conti@polimi.it
+      email: pconti@turing.ac.uk
       phone:  
       # appointment_url: 'https://calendly.com'
       address:
-        street: P.zza Leonardo Da Vinci, 32
-        city: Milano
-        region: MI
-        postcode: '20133'
-        country: Italy
-      directions:  Department of Mathematics. Building 6
+        street: British Library, 96 Euston Rd.
+        city: London
+        region: 
+        postcode: 'NW1 2DB'
+        country: UK
+      directions:  The Alan Turing Institute
       contact_links:
       #  - icon: twitter
       #    icon_pack: fab
