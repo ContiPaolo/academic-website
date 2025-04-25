@@ -7,7 +7,7 @@ authors:
 - Stefano Mariani
 - Attilio Frangi
 
-date: "2024-11-01T00:00:00Z"
+date: "2025-01-01T00:00:00Z"
 doi: "https://doi.org/10.48550/arXiv.2411.04842"
 
 # Schedule page publish date (NOT publication's date).
