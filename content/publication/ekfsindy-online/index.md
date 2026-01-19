@@ -33,7 +33,7 @@ abstract: "We propose the use of the Extended Kalman Filter (EKF) for online dat
 #- Source Themes
 featured: false
 
-url_pdf: "https://link.springer.com/article/10.1007/s11071-025-11029-y"
+url_pdf: "https://arxiv.org/abs/2411.04842"
 url_code: "https://github.com/ContiPaolo/EKF-SINDy"
 url_dataset: ''
 url_poster: ''

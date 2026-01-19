@@ -35,7 +35,7 @@ abstract: Generative models are transforming science and engineering by enabling
 #- Source Themes
 featured: false
 
-url_pdf: "https://doi.org/10.1016/j.neunet.2026.108543"
+url_pdf: "https://arxiv.org/abs/2405.20905"
 url_code: "https://github.com/jkneifl/VENI-VINDy-VICI"
 url_dataset: ''
 url_poster: ''
