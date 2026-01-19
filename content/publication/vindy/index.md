@@ -8,7 +8,7 @@ authors:
 - Steven L. Brunton
 - J. Nathan Kutz
 
-date: "2024-06-01T00:00:00Z"
+date: "2026-01-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.neunet.2026.108543"
 
 
