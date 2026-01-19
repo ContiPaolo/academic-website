@@ -5,11 +5,11 @@ authors:
 - Hendrik Lens
 - admin
 
-date: "2025-01-01T00:00:00Z"
+date: "2024-01-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.ifacol.2025.07.135"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,7 +21,7 @@ publication_types: ["1"]
 publication: ""
 publication_short: ""
 
-abstract: Soft sensors, or inferential sensors, are crucial in quality and process control systems because they allow for e!cient, online estimation of essential quantities that are otherwise di!cult or expensive to measure directly. In many applications, it is common to use cost-e”ective measurement equipment, o”ering faster data collection than high-fidelity measurements, albeit at the price of reduced accuracy. These low-fidelity data can provide useful information to enhance the estimation of output quantities of interest, thereby facilitating the design of inferential control systems. In this work, we introduce an innovative approach to soft sensing by employing hierarchical, multi-fidelity surrogate models as soft sensors, integrated with Bayesian optimization for input variable selection. Our method creates a parsimonious model by identifying and organizing relevant inputs into a fidelity hierarchy, which enables a multi-fidelity neural network to sequentially refine estimations by extracting crucial information progressively. First, we showcase the e”ectiveness of the proposed framework on a numerical benchmark, then we use our method to create a surrogate model as soft sensor for accurately determining the atmospheric particulate matter concentration (PM2.5) using real data collected from low-cost sensors.
+abstract: Soft sensors, or inferential sensors, are crucial in quality and process control systems because they allow for e!cient, online estimation of essential quantities that are otherwise di!cult or expensive to measure directly. In many applications, it is common to use cost-effective measurement equipment, offering faster data collection than high-fidelity measurements, albeit at the price of reduced accuracy. These low-fidelity data can provide useful information to enhance the estimation of output quantities of interest, thereby facilitating the design of inferential control systems. In this work, we introduce an innovative approach to soft sensing by employing hierarchical, multi-fidelity surrogate models as soft sensors, integrated with Bayesian optimization for input variable selection. Our method creates a parsimonious model by identifying and organizing relevant inputs into a fidelity hierarchy, which enables a multi-fidelity neural network to sequentially refine estimations by extracting crucial information progressively. First, we showcase the e”ectiveness of the proposed framework on a numerical benchmark, then we use our method to create a surrogate model as soft sensor for accurately determining the atmospheric particulate matter concentration (PM2.5) using real data collected from low-cost sensors.
 
 
 # Summary. An optional shortened abstract.
