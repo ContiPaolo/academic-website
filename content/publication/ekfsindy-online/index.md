@@ -1,5 +1,5 @@
 ---
-title: "Online learning in bifurcating dynamic systems via SINDy and Kalman filterings"
+title: "Online learning in bifurcating dynamic systems via SINDy and Kalman filtering"
 authors:
 - Luca Rosafalco
 - admin
@@ -8,7 +8,7 @@ authors:
 - Attilio Frangi
 
 date: "2025-01-01T00:00:00Z"
-doi: "https://doi.org/10.48550/arXiv.2411.04842"
+doi: "https://link.springer.com/article/10.1007/s11071-025-11029-y"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-01-01T00:00:00Z"
@@ -33,7 +33,7 @@ abstract: "We propose the use of the Extended Kalman Filter (EKF) for online dat
 #- Source Themes
 featured: false
 
-url_pdf: "https://link.springer.com/article/10.1007/s11071-025-11029-"
+url_pdf: "https://link.springer.com/article/10.1007/s11071-025-11029-y"
 url_code: "https://github.com/ContiPaolo/EKF-SINDy"
 url_dataset: ''
 url_poster: ''
