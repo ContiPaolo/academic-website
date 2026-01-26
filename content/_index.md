@@ -127,6 +127,8 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
+        - name: Multi-Fidelity
+          tag: Multi-Fidelity
         - name: Applied Statistics
           tag: Applied Statistics
     design:
