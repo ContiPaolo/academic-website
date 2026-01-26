@@ -3,6 +3,7 @@ title: Progressive Multi-Fidelity Learning
 summary: A progressive multi-fidelity surrogate modeling paradigm, designed to incorporate new datasets of varying modalities as they become available.
 tags:
   - Deep Learning
+  - Multi-Fidelity
 date: '2025-10-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
