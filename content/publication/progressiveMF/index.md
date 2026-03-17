@@ -1,5 +1,5 @@
 ---
-title: "Progressive multi-fidelity learning for physical system predictions"
+title: "Progressive multi-fidelity learning with neural networks for physical system predictions"
 authors:
 - admin
 - Mengwu Guo
