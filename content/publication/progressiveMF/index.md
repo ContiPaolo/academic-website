@@ -6,21 +6,21 @@ authors:
 - Attilio Frangi
 - Andrea Manzoni
 
-date: "2025-10-15T00:00:00Z"
-doi: "https://doi.org/10.48550/arXiv.2510.13762"
+date: "2026-03-15T00:00:00Z"
+doi: "https://doi.org/10.1016/j.cma.2026.118881"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-10-15T00:00:00Z"
+publishDate: "2026-03-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
-publication_short: ""
+publication: "Computer Methods in Applied Mechanics and Engineering"
+publication_short: "CMAME"
 
 abstract: Highly accurate datasets from numerical or physical experiments are often expensive and time-consuming to acquire, posing a significant challenge for applications that require precise evaluations, potentially across multiple scenarios and in real-time. Even building sufficiently accurate surrogate models can be extremely challenging with limited high-fidelity data. Conversely, less expensive, low-fidelity data can be computed more easily and encompass a broader range of scenarios. By leveraging multi-fidelity information, prediction capabilities of surrogates can be improved.However, in practical situations, data may be different in types, come from sources of different modalities, and not be concurrently available, further complicating the modeling process. To address these challenges, we introduce a progressive multi-fidelity surrogate model. This model can sequentially incorporate diverse data types using tailored encoders. Multi-fidelity regression from the encoded inputs to the target quantities of interest is then performed using neural networks. Input information progressively flows from lower to higher fidelity levels through two sets of connections. (i) concatenations among all the encoded inputs, and (ii) additive connections among the final outputs. This dual connection system enables the model to exploit correlations among different datasets while ensuring that each level makes an additive correction to the previous level without altering it. This approach prevents performance degradation as new input data are integrated into the model and automatically adapts predictions based on the available inputs. We demonstrate the effectiveness of the approach on numerical benchmarks and a real-world air pollution case study, showing that it reliably integrates multi-modal data, mitigates low-fidelity imperfections, and provides accurate predictions, while maintaining performance when generalizing across time and parameter variations.
 
