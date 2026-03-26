@@ -6,21 +6,21 @@ authors:
 - Attilio Frangi
 - Andrea Manzoni
 
-date: "2025-10-10T00:00:00Z"
-doi: "https://doi.org/10.48550/arXiv.2512.16430"
+date: "2026-03-10T00:00:00Z"
+doi: "https://doi.org/10.1016/j.cma.2026.118916"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-10-10T00:00:00Z"
+publishDate: "2026-03-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
-publication_short: ""
+publication: "Computer Methods in Applied Mechanics and Engineering"
+publication_short: "CMAME"
 
 abstract: Inverse uncertainty quantification (UQ) tasks such as parameter estimation are computationally demanding whenever dealing with physics-based models, and typically require repeated evaluations of complex numerical solvers. When partial differential equations are involved, full-order models such as those based on the Finite Element Method can make traditional sampling approaches like Markov Chain Monte Carlo (MCMC) computationally infeasible. Although data-driven surrogate models may help reduce evaluation costs, their utility is often limited by the expense of generating high-fidelity data. In contrast, low-fidelity data can be produced more efficiently, although relying on them alone may degrade the accuracy of the inverse UQ solution. To address these challenges, we propose a Multi-Fidelity Delayed Acceptance scheme for Bayesian inverse problems. Extending the Multi-Level Delayed Acceptance framework, the method introduces multi-fidelity neural networks that combine the predictions of solvers of varying fidelity, with high fidelity evaluations restricted to an offline training stage. During the online phase, likelihood evaluations are obtained by evaluating the coarse solvers and passing their outputs to the trained neural networks, thereby avoiding additional high-fidelity simulations. This construction allows heterogeneous coarse solvers to be incorporated consistently within the hierarchy, providing greater flexibility than standard Multi-Level Delayed Acceptance. The proposed approach improves the approximation accuracy of the low fidelity solvers, leading to longer sub-chain lengths, better mixing, and accelerated posterior inference. The effectiveness of the strategy is demonstrated on two benchmark inverse problems involving (i) steady isotropic groundwater flow, (ii) an unsteady reaction-diffusion system, for which substantial computational savings are obtained.
 
