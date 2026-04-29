@@ -23,6 +23,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Principal Research Scientist
+          company: Autodesk Research
+          company_url: 'https://www.research.autodesk.com/'
+          company_logo: Adsk_logo
+          location: London, UK
+          date_start: '2025-04-20'
+          date_end: ''
+          description:  |
+            Principal Research Scientist in the Physics-Informed AI team, advancing physics-informed AI at the intersection of advanced computation, engineering expertise, and design innovation.
         - title: Research Associate
           company: The Alan Turing Institute
           company_url: 'https://www.turing.ac.uk/research/research-programmes/fundamental-ai'
