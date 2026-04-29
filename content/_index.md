@@ -38,7 +38,7 @@ sections:
           company_logo: logo_Alan
           location: London, UK
           date_start: '2025-03-03'
-          date_end: ''
+          date_end: '2026-04-19'
           description:  |
             Research Associate in Fundamental Research in AI for physical systems, with the aim of developing the next generation of foundational methods, tools and theory to enable modelling, prediction and control of physical systems. 
         - title: Visting Researcher
@@ -197,16 +197,16 @@ sections:
       subtitle:
       text: 
       # Contact (add or remove contact options as necessary)
-      email: pconti@turing.ac.uk
+      email: paolo.conti@autodesk.com
       phone:  
       # appointment_url: 'https://calendly.com'
       address:
-        street: British Library, 96 Euston Rd.
+        street: 6 Agar St, 3rd Floor
         city: London
         region: 
-        postcode: 'NW1 2DB'
+        postcode: 'WC2 4HU'
         country: UK
-      directions:  The Alan Turing Institute
+      directions:  Autodesk
       contact_links:
       #  - icon: twitter
       #    icon_pack: fab
