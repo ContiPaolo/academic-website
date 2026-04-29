@@ -14,13 +14,13 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Associate
+role: Principal Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
- - name: The Alan Turing Institute
-   url: https://www.turing.ac.uk/
-   
+ - name: Autodesk Research
+   url: https://www.research.autodesk.com/
+
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include scientific machine learning, multi-fidelity and reduced-order modeling.
 
@@ -74,11 +74,11 @@ social:
     link: uploads/Paolo_Conti_CV_PhD.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'paolo.conti@polimi.it'
+email: 'paolo.conti@autodesk.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a Research Associate in Fundamental Research in AI at The Alan Turing Institute. I am fascinated by the immense world that arises from blending core numerical methods with artificial intelligence learning techniques, which is what I am focusing on in my research activities. Lifelong learning is my attitude, and working day-by-day for long-term goals is my methodology. Mathematical engineer by formation, aerobic gymnast by passion.
+I am a Principal Research Scientist in the Physics-Informed AI team at Autodesk Research in London. I am fascinated by the immense world that arises from blending core numerical methods with machine learning—especially when that combination serves engineering, design, and reliable prediction of physical systems. Lifelong learning is my attitude, and working day-by-day for long-term goals is my methodology. Mathematical engineer by formation, aerobic gymnast by passion.
 {style="text-align: justify;"}
