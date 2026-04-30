@@ -74,13 +74,14 @@ social:
     link: uploads/Paolo_Conti_CV_PhD.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'paolo.conti@polimi.it'
+email: 'paolo.conti@autodesk.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a Principal Research Scientist in the Physics-Informed AI team at Autodesk Research in London. I am fascinated by the immense world that arises from blending core numerical methods with machine learning, bringin together when that combination serves engineering, design, and reliable prediction of physical systems. Lifelong learning is my attitude, and working day-by-day for long-term goals is my methodology. Mathematical engineer by formation, aerobic gymnast by passion.
+I am a Principal Research Scientist in the Physics-Informed AI team at Autodesk Research in London. 
+I am fascinated by the immense world that arises from blending core numerical methods with machine learning, bringing together advanced computation, engineering expertise, and design innovation. 
+Lifelong learning is my attitude, and working day-by-day for long-term goals is my methodology. 
+Mathematical engineer by formation, aerobic gymnast by passion.
 {style="text-align: justify;"}
-
-I am fascinated by the immense world that arises from blending core numerical methods with artificial intelligence learning techniques, which is what I am focusing on in my research activities. Lifelong learning is my attitude, and working day-by-day for long-term goals is my methodology. Mathematical engineer by formation, aerobic gymnast by passion.
